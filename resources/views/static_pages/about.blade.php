@@ -1,4 +1,3 @@
-<?p
 @extends('layouts.default')
 @section('title','about页面')
 @section('content')
